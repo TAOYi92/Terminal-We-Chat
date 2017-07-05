@@ -1,7 +1,12 @@
 # Terminal-We-Chat
 Terminal version of We-Chat based on itchat package
 
-Just run the python script in any terminal console by
+Please install the `itchat` package first
+```
+pip3 install itchat
+```
+
+Then, just run the python script in any terminal console by
 ```
 cd /where/the/script/is/
 ./TerminalWeChat.py
