@@ -6,7 +6,13 @@ Please install the `itchat` package first
 pip3 install itchat
 ```
 
-Then, just run the python script in any terminal console by
+Next, make needed directory (For plan of next version, I will write a shell script)
+```
+mkdir /where/the/script/is/wechat_files
+mkdir /where/the/script/is/wechat_files/file /where/the/script/is/wechat_files/picture_video_etc
+```
+
+And then, just run the python script in any terminal console by
 ```
 cd /where/the/script/is/
 ./TerminalWeChat.py
